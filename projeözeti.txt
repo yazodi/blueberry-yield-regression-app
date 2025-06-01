@@ -1,0 +1,29 @@
+
+kaggle
+🍇 Proje Özeti
+Amaç: Yaban mersini tarlalarındaki çeşitli çevresel ve tarımsal faktörlere göre meyve verimini (yield) tahmin etmek.
+
+Problem Türü: Regresyon (sürekli değer tahmini)
+
+Veri Kaynağı: Gerçek dünyadan alınan yaban mersini verimi tahmin verileri.
+
+Hedef Değişken: yield (meyve verimi)
+
+Özellikler: Toprak pH'ı, yağış miktarı, sıcaklık, gübre kullanımı gibi çevresel ve tarımsal faktörler.
+
+
+
+
+Gerçek Dünya Verisi: Tarım ve çevre mühendisliği gibi alanlarda pratik uygulamaları olan bir veri seti.
+
+Eğitim Odaklı: Kaggle'ın Playground serisi, öğrenme ve pratik yapma amacıyla tasarlanmıştır.
+
+Modelleme Fırsatları: Regresyon problemleri için çeşitli makine öğrenimi algoritmalarını deneme imkanı sunar.
+
+Görselleştirme ve Analiz: EDA (Exploratory Data Analysis) ve veri görselleştirme için zengin bir veri seti.
+
+
+
+
+
+
