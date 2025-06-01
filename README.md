@@ -14,7 +14,7 @@ tags:
   - kaggle
   - agriculture
 ---
-
+https://huggingface.co/spaces/yazodi/blueberry-yield-regression-app/tree/main download model...
 # 🍇 Blueberry Yield Prediction with Machine Learning
 
 This project is a complete machine learning pipeline that predicts the **yield of wild blueberries** using various environmental and biological features such as pollinator counts, rainfall, and fruit measurements.
